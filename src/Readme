@@ -1,0 +1,9 @@
+Task 1.
+
+Task 2. Write a program that displays "Ellie is very smart" 5 times. Each time, on a new line.
+
+Task 3. It's currently 3126. My friend was born 8 years ago.
+        Write a program that displays my friend's birth year.
+
+Task 4. Write a program that declares the following variables in the main method:
+        String name, int age, and String city.
